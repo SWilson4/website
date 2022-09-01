@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Junior Developer"
+  company = "1Password"
+  company_url = "https://1password.com"
+  location = "Toronto, Ontario"
+  date_start = "2020-05-06"
+  date_end = "2020-08-28"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Spencer's accomplishments included
+  * Improving and adding to the functionality of the 1Password command-line tool
+  * Creating internal tools that improved testing efficiency and reliability by 900%
+  * Designing and developing a proof-of-concept to verify interoperability of different cryptography libraries
+
+  Languages, tools, and libraries used:
+  * Go, TypeScript/JavaScript, bash
+  * Docker, GitLab CI, Node.js
+  * Cobra, Puppeteer, QUnit
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Undergraduate Research Intern"
+  company = "University of Waterloo, Department of Pure Mathematics"
+  company_url = "https://uwaterloo.ca/pure-mathematics"
+  location = "Waterloo, Ontario"
+  date_start = "2019-09-01"
+  date_end = "2019-12-31"
+  description = """
+  Spencer conducted research in commutative algebra, motivated by problems arising in model theory, under the supervision of [Professor Rahim Moosa](https://www.math.uwaterloo.ca/~rmoosa). Spencer was responsible for presenting his work in weekly meetings as well as preparing an end-of-term research report. His work was supported by an Undergraduate Student Research Award from the Natural Sciences and Engineering Research Council of Canada and a President's Research Award from the University of Waterloo.
+  """
 
 +++
